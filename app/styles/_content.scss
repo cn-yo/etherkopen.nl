@@ -252,11 +252,12 @@
 .discover-content {
     float: right;
     width: 50%;
-    padding: 77px 97px 50px 15px;
+    padding: 0 97px 50px 15px;
+    color:#666;
     @include sizing;
     h2 {
-        font-size: 72px;
-        line-height: 72px;
+        font-size: 42px;
+        line-height: 42px;
         font-weight: bold;
         margin-bottom: 29px;
     }

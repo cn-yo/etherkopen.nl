@@ -7,6 +7,10 @@ header {
     color: $white;
     @include bgsize;
     @include sizing;
+
+    p {
+        color:#fff;
+    }
     .layer {
         height:100%;
         padding:104px 0;
@@ -57,6 +61,6 @@ header {
     float: right;
 }
 .header-wrapper {
-    padding-top: 87px;
+    padding-top: 37px;
     max-width: 655px
 }

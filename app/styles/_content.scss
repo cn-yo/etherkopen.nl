@@ -149,6 +149,8 @@ h2,h3,h4{
             font-weight: $f-light;
         }
     }
+    p { color:#fff;}
+
     .tabs {
         display: block;
         text-align: center;
@@ -282,13 +284,13 @@ h2,h3,h4{
         }
     }
 
-    p {
-        margin-bottom:.5em;
-        color:#666;
-    }
+
 }
 
-
+p {
+    margin-bottom:.5em;
+    color:#666;
+}
 .discover {
     padding: 31px 0 45px;
     background: #eee;
